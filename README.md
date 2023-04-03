@@ -16,4 +16,3 @@
 **Simply Wallpapers of various styles.**
 
 
-![Github Releases](ACC https://img.shields.io/github/downloads/popeye0013/Wallify/latest/total.svg?style=plastic)
