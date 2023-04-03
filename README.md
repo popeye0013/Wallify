@@ -5,7 +5,7 @@
 [![Release](https://img.shields.io/github/v/release/popeye0013/Wallify?color=%231a73e8&style=for-the-badge)](https://github.com/popeye0013/Wallify/releases)
 
  
-![alt text](https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Avatars/wallifybanner.png)
+![alt text](https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Avatars/wallifybanner.jpg)
 
 
 [![Descargas](https://img.shields.io/github/downloads/popeye0013/Wallify/total?color=%231a73e8&label=Descargar&style=for-the-badge)](https://github.com/popeye0013/Wallify/releases)
