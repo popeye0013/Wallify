@@ -1,7 +1,7 @@
 ## Wallify
 
 
-[![Android](https://img.shields.io/badge/Plataforma-Android-green.svg?color=%231a73e8style=for-the-badge)](https://www.android.com) [![API](https://img.shields.io/badge/API-33%2B-orange.svg?logo=android&style=for-the-badge)](https://developer.android.com/studio/releases/platforms)
+[![API](https://img.shields.io/badge/API-33%2B-orange.svg?logo=android&style=for-the-badge)](https://developer.android.com/studio/releases/platforms)
 [![Release](https://img.shields.io/github/v/release/popeye0013/Wallify?color=%231a73e8&style=for-the-badge)](https://github.com/popeye0013/Wallify/releases)
 
  
