@@ -1,4 +1,4 @@
-### Wallify
+## ***Wallify***
 
 
 [![API](https://img.shields.io/badge/API-33%2B-orange.svg?logo=android&style=for-the-badge)](https://developer.android.com/studio/releases/platforms)
