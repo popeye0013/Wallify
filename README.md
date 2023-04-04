@@ -9,7 +9,7 @@
 
 
 
-![alt text](https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Avatars/wallifybanner.png)
+![alt text](https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Avatars/wallifybanner.jpg)
 
 
 [![Downloads](https://img.shields.io/github/downloads/popeye0013/Wallify/total?color=%231a73e8&label=Downloads&style=for-the-badge)](https://github.com/popeye0013/Wallify/releases/latest)
