@@ -1,0 +1,256 @@
+[
+  //AMOLED
+  {
+    "author": "Akash",
+    "collections": "Amoled",
+    "copyright": "Personal Use Only.",
+    "name": "Amoled Dark",
+    "downloadable": false,
+    "thumbnail": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/Amoled/amoled1.png",
+    "url": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/Amoled/amoled1.png"
+  },
+  {
+    "author": "Akash",
+    "collections": "Amoled",
+    "copyright": "Personal Use Only.",
+    "name": "Amoled Paledroid",
+    "downloadable": false,
+    "thumbnail": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/Amoled/AmoledPaledroid.png",
+    "url": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/Amoled/AmoledPaledroid.png"
+  },
+  {
+    "author": "Akash",
+    "collections": "Amoled",
+    "copyright": "Personal Use Only.",
+    "name": "Amoled Paledroid v2",
+    "downloadable": false,
+    "thumbnail": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/Amoled/AmoledPaledroidv2.png",
+    "url": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/Amoled/AmoledPaledroidv2.png"
+  },
+  {
+    "author": "Akash",
+    "collections": "Amoled",
+    "copyright": "Personal Use Only.",
+    "name": "Crystals",
+    "downloadable": false,
+    "thumbnail": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/Amoled/crystals.png",
+    "url": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/Amoled/crystals.png"
+  },
+  {
+    "author": "Akash",
+    "collections": "Amoled",
+    "copyright": "Personal Use Only.",
+    "name": "Amoled Lens",
+    "downloadable": false,
+    "thumbnail": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/Amoled/Amoledlens.png",
+    "url": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/Amoled/Amoledlens.png"
+  },
+  {
+    "author": "Akash",
+    "collections": "Amoled",
+    "copyright": "Personal Use Only.",
+    "name": "Crystals2",
+    "downloadable": false,
+    "thumbnail": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/Amoled/crystals2.png",
+    "url": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/Amoled/crystals2.png"
+  },
+  //ANIMI STICKERS
+  {
+    "author": "Akash",
+    "collections": "AnimiSticker",
+    "copyright": "Personal Use Only.",
+    "name": "Dragon Ball",
+    "downloadable": false,
+    "thumbnail": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/AnimiSticker/DragonBall.png",
+    "url": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/AnimiSticker/DragonBall.png"
+  },
+  {
+    "author": "Akash",
+    "collections": "AnimiSticker",
+    "copyright": "Personal Use Only.",
+    "name": "KR Anime",
+    "downloadable": false,
+    "thumbnail": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/AnimiSticker/KR_Anime.png",
+    "url": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/AnimiSticker/KR_Anime.png"
+  },
+  {
+    "author": "Akash",
+    "collections": "AnimiSticker",
+    "copyright": "Personal Use Only.",
+    "name": "Luffy",
+    "downloadable": false,
+    "thumbnail": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/AnimiSticker/Luffy.png",
+    "url": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/AnimiSticker/Luffy.png"
+  },
+  {
+    "author": "Akash",
+    "collections": "AnimiSticker",
+    "copyright": "Personal Use Only.",
+    "name": "Naruto",
+    "downloadable": false,
+    "thumbnail": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/AnimiSticker/Naruto.png",
+    "url": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/AnimiSticker/Naruto.png"
+  },
+  //MATERIAL YOU
+  {
+    "author": "Akash",
+    "collections": "MaterialYou",
+    "copyright": "Personal Use Only.",
+    "name": "Anthurium",
+    "downloadable": false,
+    "thumbnail": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/AnimiSticker/anthurium.png",
+    "url": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/MaterialYou/anthurium.png"
+  },
+  {
+    "author": "Akash",
+    "collections": "MaterialYou",
+    "copyright": "Personal Use Only.",
+    "name": "Colorful Dark",
+    "downloadable": false,
+    "thumbnail": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/AnimiSticker/colorful_dark.png",
+    "url": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/MaterialYou/colorful_dark.png"
+  },
+    {
+    "author": "Akash",
+    "collections": "MaterialYou",
+    "copyright": "Personal Use Only.",
+    "name": "Doodle Light",
+    "downloadable": false,
+    "thumbnail": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/MaterialYou/Doodle.png",
+    "url": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/MaterialYou/Doodle.png"
+  },
+  {
+    "author": "Akash",
+    "collections": "MaterialYou",
+    "copyright": "Personal Use Only.",
+    "name": "Draw Material",
+    "downloadable": false,
+    "thumbnail": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/MaterialYou/draw_material.png",
+    "url": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/MaterialYou/draw_material.png"
+  },
+  {
+    "author": "Akash",
+    "collections": "MaterialYou",
+    "copyright": "Personal Use Only.",
+    "name": "Doodle Dark",
+    "downloadable": false,
+    "thumbnail": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/MaterialYou/Doodle(Amoled).png",
+    "url": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/MaterialYou/Doodle(Amoled).png"
+  },
+  {
+    "author": "Akash",
+    "collections": "MaterialYou",
+    "copyright": "Personal Use Only.",
+    "name": "Flower Outline",
+    "downloadable": false,
+    "thumbnail": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/MaterialYou/flower_outline.png",
+    "url": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/MaterialYou/flower_outline.png"
+  },
+  {
+    "author": "Akash",
+    "collections": "MaterialYou",
+    "copyright": "Personal Use Only.",
+    "name": "Flower Outline Dark",
+    "downloadable": false,
+    "thumbnail": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/MaterialYou/flower_outline_dark.png",
+    "url": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/MaterialYou/flower_outline_dark.png"
+  },
+  {
+    "author": "Akash",
+    "collections": "MaterialYou",
+    "copyright": "Personal Use Only.",
+    "name": "Fresh Leaf",
+    "downloadable": false,
+    "thumbnail": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/MaterialYou/fresh_leaf.jpg",
+    "url": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/MaterialYou/fresh_leaf.jpg"
+  },
+  {
+    "author": "Akash",
+    "collections": "MaterialYou",
+    "copyright": "Personal Use Only.",
+    "name": "Doodle Art",
+    "downloadable": false,
+    "thumbnail": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/MaterialYou/DoodleArt.png",
+    "url": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/MaterialYou/DoodleArt.png"
+  },
+  {
+    "author": "Akash",
+    "collections": "MaterialYou",
+    "copyright": "Personal Use Only.",
+    "name": "Material Curve",
+    "downloadable": false,
+    "thumbnail": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/MaterialYou/material_curve.png",
+    "url": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/MaterialYou/material_curve.png"
+  },
+    {
+    "author": "Akash",
+    "collections": "MaterialYou",
+    "copyright": "Personal Use Only.",
+    "name": "Material Tagetes",
+    "downloadable": false,
+    "thumbnail": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/MaterialYou/material_tagetes.png",
+    "url": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/MaterialYou/material_tagetes.png"
+  },
+  {
+    "author": "Akash",
+    "collections": "MaterialYou",
+    "copyright": "Personal Use Only.",
+    "name": "Meteors",
+    "downloadable": false,
+    "thumbnail": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/MaterialYou/meteors00.png",
+    "url": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/MaterialYou/meteors00.png"
+  },
+    {
+    "author": "Akash",
+    "collections": "MaterialYou",
+    "copyright": "Personal Use Only.",
+    "name": "Organic",
+    "downloadable": false,
+    "thumbnail": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/MaterialYou/Organic-01.png",
+    "url": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/MaterialYou/Organic-01.png"
+  },
+  {
+    "author": "Akash",
+    "collections": "MaterialYou",
+    "copyright": "Personal Use Only.",
+    "name": "Planets",
+    "downloadable": false,
+    "thumbnail": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/MaterialYou/planets.png",
+    "url": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/MaterialYou/planets.png"
+  },
+    {
+    "author": "Akash",
+    "collections": "MaterialYou",
+    "copyright": "Personal Use Only.",
+    "name": "Space",
+    "downloadable": false,
+    "thumbnail": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/MaterialYou/space.png",
+    "url": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/MaterialYou/space.png"
+  },
+  {
+    "author": "Akash",
+    "collections": "MaterialYou",
+    "copyright": "Personal Use Only.",
+    "name": "Flower",
+    "downloadable": false,
+    "thumbnail": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/MaterialYou/Flower.png",
+    "url": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/MaterialYou/Flower.png"
+  },
+    {
+    "author": "Akash",
+    "collections": "MaterialYou",
+    "copyright": "Personal Use Only.",
+    "name": "Yellow",
+    "downloadable": false,
+    "thumbnail": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/MaterialYou/Yellow.jpg",
+    "url": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/MaterialYou/Yellow.jpg"
+  },
+  {
+    "author": "Akash",
+    "collections": "MaterialYou",
+    "copyright": "Personal Use Only.",
+    "name": "Yellow Papel",
+    "downloadable": false,
+    "thumbnail": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/MaterialYou/YellowPapel.png",
+    "url": "https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Database/MaterialYou/YellowPapel.png"
+  },
