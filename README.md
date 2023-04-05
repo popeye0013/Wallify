@@ -3,6 +3,8 @@
 
 ***Wallpapers are added to Wallify regularly every day.***
 
+***It is based on and supported by the "Frames" project by Jahir Fiquitiva.***
+
 [![API](https://img.shields.io/badge/API-33%2B-orange.svg?logo=android&style=for-the-badge)](https://developer.android.com/studio/releases/platforms)
 
 
