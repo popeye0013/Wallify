@@ -1,5 +1,5 @@
 ## ***Wallify***
- ***It is an application that contains high quality wallpapers, currently has about 40+ categories, more than 1000+ wallpapers.***
+ ***Wallify is an application that contains high quality wallpapers, currently has about 40+ categories, more than 1000+ wallpapers.***
 
 ***Wallpapers are added to Wallify regularly every day.***
 
