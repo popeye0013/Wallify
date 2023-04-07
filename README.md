@@ -15,6 +15,13 @@
 
 [![Downloads](https://img.shields.io/github/downloads/popeye0013/Wallify/total?color=%231a73e8&label=Downloads&style=for-the-badge)](https://github.com/popeye0013/Wallify/releases/latest)
 
+
+## ***Updates***
+
+Get Android App Updates Directly From the Source.
+
+[Obtainium](https://github.com/ImranR98/Obtainium) allows you to install and update Open-Source Apps directly from their releases pages, and receive notifications when new releases are made available.
+
 ## ***Support***
 
 <p align="vertical"><a href="https://paypal.me/popeye0013"><img src="https://github.com/aha999/DonateButtons/blob/1371730702589476cbd31790685ded66857a1f08/Paypal.png" width="175"></a></p>
