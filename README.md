@@ -18,9 +18,9 @@
 
 ## ***Updates***
 
-Get Android App Updates Directly From the Source.
+***Get Android App Updates Directly From the Source.***
 
-[Obtainium](https://github.com/ImranR98/Obtainium) allows you to install and update Open-Source Apps directly from their releases pages, and receive notifications when new releases are made available.
+***[Obtainium](https://github.com/ImranR98/Obtainium) allows you to install and update Open-Source Apps directly from their releases pages, and receive notifications when new releases are made available.***
 
 ## ***Support***
 
