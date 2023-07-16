@@ -28,6 +28,6 @@
 <p align="vertical"><a href="https://paypal.me/popeye0013"><img src="https://github.com/aha999/DonateButtons/blob/1371730702589476cbd31790685ded66857a1f08/Paypal.png" width="175"></a></p>
 
 
-***Simply GOOGLE Wallpapers of various styles...***
+***Enjoy paradise of wallpapers...***
 
 
