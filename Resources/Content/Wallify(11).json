@@ -1,0 +1,3867 @@
+[
+	{       
+                "name": "Black Panther Red",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BlackPantherRed.png",
+		"collections": "Hero,Amoled",
+		"downloadable": false,
+                "dimensions": "1284 x 2778"
+        },
+	{
+                "name": "Black Panther Purple",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BlackPantherPurple.png",
+		"collections": "Hero,Amoled",
+		"downloadable": false,
+                "dimensions": "1284 x 2778"
+        },
+	{
+                "name": "Black Panther Yellow",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BlackPantherYellow.png",
+		"collections": "Hero,Amoled",
+		"downloadable": false,
+                "dimensions": "1284 x 2778"
+        },
+	{
+                "name": "Black Panther Red 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BlackPantherRed1.png",
+		"collections": "Hero,Amoled",
+		"downloadable": false,
+                "dimensions": "1284 x 2778"
+        },
+	{
+                "name": "Black Panther Red 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BlackPantherRed2.png",
+		"collections": "Hero,Amoled",
+		"downloadable": false,
+                "dimensions": "1284 x 2778"
+        },
+	{
+                "name": "Black Panther Purple 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BlackPantherPurple1.png",
+		"collections": "Hero,Amoled",
+		"downloadable": false, 
+                "dimensions": "1284 x 2778"
+        },
+	{
+                "name": "Black Panther Purple 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BlackPantherPurple2.png",
+		"collections": "Hero,Amoled",
+		"downloadable": false,
+                "dimensions": "1284 x 2778"
+        },
+	{
+                "name": "Black Panther Yellow 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BlackPantherYellow1.png",
+		"collections": "Hero,Amoled",
+		"downloadable": false,
+                "dimensions": "1284 x 2778"
+        },
+	{
+                "name": "Black Panther Yellow 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BlackPantherYellow2.png",
+		"collections": "Hero,Amoled",
+		"downloadable": false,
+                "dimensions": "1284 x 2778"
+        },
+	{
+                "name": "Japan Koi 8",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanKoi8.png",
+		"collections": "Fishes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Japan Koi 9",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanKoi9.png",
+		"collections": "Fishes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Japan Koi 10",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanKoi10.png",
+		"collections": "Fishes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Japan Green",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanGreen.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Japan Red",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanRed.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Japan Green 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanGreen1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Japan Red 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanRed1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Sunset Tree",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SunsetTree.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Sunset Tree",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SunsetTree1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Sunset Tree 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SunsetTree2.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Sunset Tree 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SunsetTree3.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Minimal Building",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalBuilding.png",
+		"collections": "Building",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Minimal Building 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalBuilding2.png",
+		"collections": "Building",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Minimal Building 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalBuilding3.png",
+		"collections": "Building",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Minimal Building Amoled",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalBuildingAmoled.png",
+		"collections": "Building,Amoled",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Wind Mountains",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/WindMountains.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Wind Mountains 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/WindMountains1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "WindMountainsAmoled",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/WindMountainsAmoled.png",
+		"collections": "Landscapes,Amoled",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Wind Mountains 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/WindMountains2.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Stranger Mountain",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/StrangerMountain.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Stranger Mountain 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/StrangerMountain1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Stranger Mountain 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/StrangerMountain2.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Stranger Mountain 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/StrangerMountain3.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Japan Beauty",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanBeauty.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Japan Beauty 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanBeauty1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Japan Beauty 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanBeauty2.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Japan Beauty 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanBeauty3.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Merry Christmas 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MerryChristmas2.png",
+		"collections": "Christmas",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Merry Christmas 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MerryChristmas3.png",
+		"collections": "Christmas",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Merry Christmas 4",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MerryChristmas4.png",
+		"collections": "Christmas",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Little House Landscape Amoled",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LittleHouseLandscapeAmoled.png",
+		"collections": "Landscapes,Amoled",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Merry Christmas",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MerryChristmas.png",
+		"collections": "Christmas",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Merry Christmas 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MerryChristmas1.png",
+		"collections": "Christmas",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Little House Landscape",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LittleHouseLandscape.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Little House Landscape 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LittleHouseLandscape1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Ocean",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Ocean.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Ocean 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Ocean1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Ocean 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Ocean2.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Ocean 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Ocean3.png",
+		"collections": "Landscapes,Amoled",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Volcano",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Volcano.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Volcano 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Volcano1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Volcano 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Volcano2.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Volcano 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Volcano3.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Flamingo",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Flamingo.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Flamingo 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Flamingo1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Flamingo 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Flamingo2.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Minimal Autumn",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalAutumn.png",
+		"collections": "Landscapes,Minimal",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Minimal Autumn 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalAutumn1.png",
+		"collections": "Landscapes,Minimal",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Minimal Autumn 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalAutumn2.png",
+		"collections": "Landscapes,Minimal",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Minimal Autumn 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalAutumn3.png",
+		"collections": "Landscapes,Minimal,Amoled",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Minimal Colors Desert",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalDesertColors.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Minimal Colors Desert 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalDesertColors1.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Minimal Colors Desert 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalDesertColors2.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Minimal Colors Desert 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalDesertColors3.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        
+        },
+	{
+                "name": "House In The Sky",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/HouseInTheSky.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "House In The Sky 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/HouseInTheSky1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "House In The Sky 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/HouseInTheSky2.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "House In The Sky Night",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/HouseInTheSkyNight.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Gradient Sunset",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GradientSunset.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Gradient Sunset 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GradientSunset1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Gradient Sunset 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GradientSunset2.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Japan Mountain",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanMountain.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Japan Mountain",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanMountain1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Japan Mountain",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanMountain2.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Japan Mountain",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanMountain3.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{ 
+                "name": "Jungle Landscape",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JungleLandscape.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Jungle Landscape 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JungleLandscape1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Jungle Landscape 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JungleLandscape2.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Jungle Landscape 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JungleLandscape3.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Abstract Liquid",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AbstractLiquid.png",
+		"collections": "Abstract,Liquid",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Abstract Liquid 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AbstractLiquid1.png",
+		"collections": "Abstract,Liquid",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Abstract Liquid 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AbstractLiquid2.png",
+		"collections": "Abstract,Liquid",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Abstract Liquid 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AbstractLiquid3.png",
+		"collections": "Abstract,Liquid",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{ 
+                "name": "Beauty Sunset ",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySunset.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Beauty Sunset",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySunset1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{ 
+                "name": "Beauty Forest",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyForest.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Beauty Forest 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyForest1.png",
+		"collections": "Landscapes,",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Beauty Forest 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyForest2.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Beauty Forest 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyForest3.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Beauty View Camping",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyViewCamping.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Beauty View Camping 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyViewCamping1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Beauty View Camping 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyViewCamping2.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Beauty View Camping 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyViewCamping3.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Slender Man 4 ",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SlenderMan4.png",
+		"collections": "Spooky",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{ 
+                "name": "Slender Man 5",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SlenderMan5.png",
+		"collections": "Spooky",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Slender Man 6",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SlenderMan6.png",
+		"collections": "Spooky",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Slender Man 7",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SlenderMan7.png",
+		"collections": "Spooky",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Beauty Japan",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyJapan.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Beauty Japan 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyJapan1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Beauty Japan 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyJapan2.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Beauty Japan 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyJapan3.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Liquid",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid.png",
+		"collections": "Liquid,Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Liquid 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid1.png",
+		"collections": "Liquid,Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Liquid 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid2.png",
+		"collections": "Liquid,Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Liquid 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Liquid3.png",
+		"collections": "Liquid,Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Abstract 4",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Abstract4.png",
+		"collections": "Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Abstract 5",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Abstracst5.png",
+		"collections": "Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Abstract 6",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Abstract6.png",
+		"collections": "Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Abstract 7",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Abstract7.png",
+		"collections": "Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Abstract 8",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Abstract8.png",
+		"collections": "Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Abstract 9",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Abstract9.png",
+		"collections": "Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Abstract 10",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Abstract10.png",
+		"collections": "Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Abstract 11",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Abstract11.png",
+		"collections": "Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Abstract 12",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Abstract12.png",
+		"collections": "Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Abstract 13",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Abstract13.png",
+		"collections": "Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Abstract 14",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Abstract14.png",
+		"collections": "Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Abstract 15",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Abstract15.png",
+		"collections": "Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Abstract 16",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Abstract16.png",
+		"collections": "Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Abstract 17",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Abstract17.png",
+		"collections": "Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Abstract 18",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Abstract18.png",
+		"collections": "Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Abstract 19",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Abstract19.png",
+		"collections": "Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Abstract 20",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Abstract20.png",
+		"collections": "Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Abstract 21",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Abstract21.png",
+		"collections": "Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Abstract 22",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Abstract22.png",
+		"collections": "Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Abstract 23",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Abstract23.png",
+		"collections": "Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Abstract 24",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Abstract24.png",
+		"collections": "Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Abstract 25",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Abstract25.png",
+		"collections": "Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Abstract 26",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Abstract26.png",
+		"collections": "Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Abstract 27",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Abstract27.png",
+		"collections": "Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Abstract 28",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Abstract28.png",
+		"collections": "Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{ 
+                "name": "Vampire Mouth",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/VampireMouth.png",
+		"collections": "Spooky",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Vampire Mouth 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/VampireMouth1.png",
+		"collections": "Spooky",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Vampire Mouth 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/VampireMouth2.png",
+		"collections": "Spooky",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Vampire Mouth 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/VampireMouth3.png",
+		"collections": "Spooky",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Halloween Pumpkin",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/HalloweenPumpkin.png",
+		"collections": "Spooky",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Halloween Pumpkin 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/HalloweenPumpkin1.png",
+		"collections": "Spooky",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Halloween Pumpkin 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/HalloweenPumpkin2.png",
+		"collections": "Spooky",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Halloween Pumpkin",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/HalloweenPumpkin3.png",
+		"collections": "Spooky",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Halloween House",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/HalloweenHouse.png",
+		"collections": "Spooky",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Halloween House 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/HalloweenHouse1.png",
+		"collections": "Spooky",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Halloween House 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/HalloweenHouse2.png",
+		"collections": "Spooky",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Minimalist Desert",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalistDesert.png",
+		"collections": "Landscapes,Minimal",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Minimalist Desert 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalistDesert1.png",
+		"collections": "Landscapes,Minimal",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Minimalist Desert 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalistDesert2.png",
+		"collections": "Landscapes,Minimal,Amoled",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Minimalist Desert 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalistDesert3.png",
+		"collections": "Landscapes,Minimal,Amoled",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Beach View Amoled 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeachViewAmoled1.png",
+		"collections": "Landscapes,Amoled",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Beach View Amoled",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeachViewAmoled.png",
+		"collections": "Landscapes,Amoled",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{ 
+                "name": "Beach View",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeachView.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Beach View 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeachView1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Minimal Car",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalCar.png",
+		"collections": "Landscapes,Minimal",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Minimal Car 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalCar1.png",
+		"collections": "Landscapes,Minimal",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Minimal Car 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalCar2.png",
+		"collections": "Landscapes,Minimal",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Minimal Car 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalCar3.png",
+		"collections": "Landscapes,Minimal",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Beauty Landscape Road",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyLandscapeRoad.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Beauty Landscape Road 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyLandscapeRoad1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Beauty Landscape Road Amoled",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyLandscapeRoadAmoled.png",
+		"collections": "Landscapes,Amoled",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{ 
+                "name": "Cool Space",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/CoolSpace.png",
+		"collections": "Space",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Cool Space 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/CoolSpace1.png",
+		"collections": "Space,Amoled",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Cool Space 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/CoolSpace2.png",
+		"collections": "Space",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Cool Space 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/CoolSpace3.png",
+		"collections": "Space",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Beauty Colors Desert 4",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyColorsDesert4.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Beauty Colors Desert 5",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyColorsDesert5.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Beauty Colors Desert 6",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyColorsDesert6.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Beauty Colors Desert 7",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyColorsDesert7.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Beauty Colors Desert 8",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyColorsDesert8.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "ColorFull Desert",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/FullColorsDesert.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "ColorFull Desert 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/FullColorsDesert1.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "CollorFull Desert Dark",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/ColorsDesertDark.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Desert Gray 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GrayDesert1.png",
+		"collections": "Landscapes,Desert,Gray",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        
+        },
+	{
+                "name": "Little House In The Mountains",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LittleHouseInTheMountains.png",
+		"collections": "Landscapes,Minimal",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Little House In The Mountains",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LittleHouseInTheMountains1.png",
+		"collections": "Landscapes,Minimal",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Little House In The Mountains",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LittleHouseInTheMountains2.png",
+		"collections": "Landscapes,Minimal",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Little House In The Mountains",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LittleHouseInTheMountains3.png",
+		"collections": "Landscapes,Minimal",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Minimal Coffee",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalCoffe.png",
+		"collections": "Minimal",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Minimal Coffee 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalCoffe1.png",
+		"collections": "Minimal",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Mimimal Coffee 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalCoffe2.png",
+		"collections": "Minimal",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Minimal Coffee",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalCoffe3.png",
+		"collections": "Minimal",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Amoled Mountains Grain",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmoledMountainsGrain.jpg",
+		"collections": "Grain",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Sunset Boat Grain",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SunsetBoatGrain.jpg",
+		"collections": "Grain",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "Sunset Deer Grain",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SunsetDeerGrain.jpg",
+		"collections": "Grain",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Lake House Grain",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LakeHouseGrain.jpg",
+		"collections": "Grain",
+		"downloadable": false,
+		"dimensions": "2000 x 4000"
+        },
+	{
+                "name": "Amazing Mountains View Grain",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmazingMountainsViewGrain.jpg",
+		"collections": "Grain",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Thanos Fanart",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/ThanosFanart.png",
+		"collections": "Villains",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Looking Mountains View",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LookingMountainsView.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Looking Mountains View 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LookingMountainsView1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Looking Mountains View 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LookingMountainsView2.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Looking Mountain View 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LookingMountainsView3.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "IceCream 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/IceCream2.png",
+		"collections": "Minimal",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "IceCream 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/IceCream3.png",
+		"collections": "Minimal",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "IceCream",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/IceCream.png",
+		"collections": "Minimal",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "IceCream 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/IceCream1.png",
+		"collections": "Minimal",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Pixel Style Amoled 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyleAmoled1.png",
+		"collections": "Pixel,Amoled",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Pixel Style Amoled 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyleAmoled2.png",
+		"collections": "Pixel,Amoled",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{ 
+                "name": "Beauty Minimal House",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyMinimalHouse.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Beauty Minimal House 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyMinimalHouse1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Beauty Minimal House 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyMinimalHouse2.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Fanart 15",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Fanart15.png",
+		"collections": "Hero",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Fanart 16",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Fanart16.png",
+		"collections": "Hero",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Fanart 17",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Fanart17.png",
+		"collections": "Hero",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Fanart 18",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Fanart18.png",
+		"collections": "Hero",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Wolf Forest",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/WolfForest.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Wolf Forest 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/WolfForest1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Wolf Forest 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/WolfForest2.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Wolf Forest 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/WolfForest3.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Face",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Face.png",
+		"collections": "Minimal",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Face 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Face1.png",
+		"collections": "Face",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Face 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Face2.png",
+		"collections": "Face",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Face 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Face3.png",
+		"collections": "Face",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Rocket Space 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/RocketSpace2.png",
+		"collections": "Space",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Rocket Space 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/RocketSpace3.png",
+		"collections": "Space",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Japan Koi 6",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanKoi6.png",
+		"collections": "Fishes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Japan Koi 7",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanKoi7.png",
+		"collections": "Fishes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Beauty Mountains Valley",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyMountainValley.png",
+		"collections": "Landscapes,Deer",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Beauty Mountains Valley 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyMountainValley1.png",
+		"collections": "Landscapes,Deer",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Beauty Mountains 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyMountainValley2.png",
+		"collections": "Landscapes,Deer",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Beauty Rocket Space 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NewSpace3.png",
+		"collections": "Space",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Beauty Rocket Space 4",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NewSpace4.png",
+		"collections": "Space",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Beauty Rocket Space",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NewSpace1.png",
+		"collections": "Space,Amoled",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Beauty Rocket Space 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NewSpace.png",
+		"collections": "Space",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{ 
+                "name": "Amoled Abstract",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmoledAbstract.png",
+		"collections": "Abstract,Amoled",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Amoled Abstract 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmoledAbstract1.png",
+		"collections": "Abstract,Amoled",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Amoled Abstract 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmoledAbstract2.png",
+		"collections": "Abstract,Amoled",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Amoled Abstract 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmoledAbstract3.png",
+		"collections": "Abstract,Amoled",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Japan Koi 4",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanKoi4.png",
+		"collections": "Fishes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Japan Koi 5",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanKoi5.png",
+		"collections": "Fishes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Stranger Planet 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/StrangerPlanet3.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Stranger Planet 4",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/StrangerPlanet4.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Stranger Planet 5",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/StrangerPlanet5.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Stranger Planet 6 ",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/StrangerPlanet6.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Alone Boat",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneBoat.png",
+		"collections": "Landscapes,Minimal",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Alone Boat 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneBoat1.png",
+		"collections": "Landscapes,Minimal",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Alone Boat 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneBoat2.png",
+		"collections": "Landscapes,Minimal",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Alone Boat 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneBoat3.png",
+		"collections": "Landscapes,Minimal",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Hot Air Balloons ",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/HotAirBalloons.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Hot Air Balloons 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/HotAirBalloons1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Hot Air Balloons 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/HotAirBalloons2.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Hoy Air Balloons 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/HotAirBalloons3.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px" 
+        },
+	{
+                "name": "Secret Sword 7",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SecretSword7.png",
+		"collections": "Landscapes,Sword",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Secret Sword 8",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SecretSword8.png",
+		"collections": "Landscapes,Sword",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Pixel Style 20",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle20.png",
+		"collections": "Pixel,Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Pixel Style 21",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle21.png",
+		"collections": "Pixel,Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Pixel Style 22",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle22.png",
+		"collections": "Pixel,Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Pixel Style 23",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle23.png",
+		"collections": "Pixel,Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Pixel Style 24",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle24.png",
+		"collections": "Pixel,Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Pixel Style 25",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle25.png",
+		"collections": "Pixel,Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Sunset Deer",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SunsetDeer.png",
+		"collections": "Landscapes,Deer",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Sunset Deer 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SunsetDeer1.png",
+		"collections": "Landscapes,Deer",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Sunset Deer 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SunsetDeer2.png",
+		"collections": "Landscapes,Deer",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Sunset Deer Gray",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SunsetDeerGray.png",
+		"collections": "Landscapes,Deer,Gray",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+		"name": "Bubble Planet",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BubblePlanet.png",
+		"collections": "Space,Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+	},
+	{
+          
+                "name": "Bubble Planet 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BubblePlanet1.png",
+		"collections": "Space,Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+          
+                "name": "Bubble Planet 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BubblePlanet2.png",
+		"collections": "Space,Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+	},
+	{
+          
+                "name": "Bubble Planet 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BubblePlanet3.png",
+		"collections": "Space,Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"	
+        },
+	{
+          
+                "name": "Simple Forest Day",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SimpleForestDay.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Simple Forest Night",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SimpleForestNight.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Simple Forest Sunset",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SimpleForestSunset.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+		"name": "Secret Sword 5",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SecretSword5.png",
+		"collections": "Landscapes,Sword",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Secret Sword 6",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SecretSword6.png",
+		"collections": "Landscapes,Sword",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Waves",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Waves.png",
+		"collections": "Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Waves 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Waves1.png",
+		"collections": "Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Waves 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Waves2.png",
+		"collections": "Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Waves 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Waves3.png",
+		"collections": "Abstract",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Japan Koi",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanKoi.png",
+		"collections": "Fishes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Japan Koi 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanKoi1.png",
+		"collections": "Fishes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Japan Koi 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanKoi2.png",
+		"collections": "Fishes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Japan Koi 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanKoi3.png",
+		"collections": "Fishes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Desert Camping",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/DesertCamping.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Desert Camping 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/DesertCamping1.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Desert Camping 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/DesertCamping2.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Desert Camping 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/DesertCamping3.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Beauty Sky Mountains",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySkyMountains.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Beauty Sky Mountains 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySkyMountains1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Beauty Sky Mountains 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySkyMountains2.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Beauty Sky Mountains 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySkyMountains3.png",
+		"collections": "Landscapes,Amoled",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Amazing Mountains View",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmazingMountainsView.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Amazing Mountains View 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmazingMountainsView1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Amazing Mountains View 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmazingMountainsView2.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Amazing Mountains View 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmazingMountainsView3.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Pixel Style 13",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle13.png",
+		"collections": "Pixel",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Pixel Style 14",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle14.png",
+		"collections": "Pixel",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Pixel Style 15",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle15.png",
+		"collections": "Pixel",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Pixel Style 16",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle16.png",
+		"collections": "Pixel",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Amoled Mountains",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmoledMountains.png",
+		"collections": "Landscapes,Amoled",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Amoled Mountains 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmoledMountains1.png",
+		"collections": "Landscapes,Amoled",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Amoled Mountains 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmoledMountains2.png",
+		"collections": "Landscapes,Amoled",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Amoled Mountains 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmoledMountains3.png",
+		"collections": "Landscapes,Amoled",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Fanart 11",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Spiderman.png",
+		"collections": "Hero",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "Fanart 12",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Spiderman1.png",
+		"collections": "Hero",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "Fanart 13",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SpidermanBlack.png",
+		"collections": "Hero",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "Fanart 14",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SpidermanBlack1.png",
+		"collections": "Hero",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "Landscape House",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LakeHouse2.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "Landscape House 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LakeHouse3.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "Lake House",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LakeHouse.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "Lake House 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LakeHouse1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{ 
+                "name": "New Mountains 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NewMountains2.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "New Mountains 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NewMountains3.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "New Mountains",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NewMountains.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "New Mountains 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/NewMountains1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "Minimal Plane",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalPlane.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Minimal Plane 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalPlane1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Minimal Plane 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalPlane2.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Minimal Plane 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MinimalPlane3.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "Artwork Gray",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BatmanGray.png",
+		"collections": "Gray",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Alone Fox Gray",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneFoxGray.png",
+		"collections": "Gray",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Piramid Desert Gray",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GrayPiramidDesert.png",
+		"collections": "Gray",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "Piramid Desert",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PiramidDesert.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Piramid Desert1 ",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PiramidDesert1.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Piramid Desert 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PiramidDesert2.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Piramid Desert 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PiramidDesert3.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "Little House",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LittleHouse.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Little House 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LittleHouse1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Little House 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LittleHouse2.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Little House Night",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LittleHouseNight.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "Pixel Style 9",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle9.png",
+		"collections": "Pixel",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Pixel Style 10",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle10.png",
+		"collections": "Pixel",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Pixel Style 11",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle11.png",
+		"collections": "Pixel",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Pixel Style 12",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle12.png",
+		"collections": "Pixel",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "Fanart 7",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Batman.png",
+		"collections": "Hero",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Fanart 8",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Batman1.png",
+		"collections": "Hero",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Fanart 9",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Batman2.png",
+		"collections": "Hero",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Fanart 10",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Batman3.png",
+		"collections": "Hero",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Geometric",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Geometric.png",
+		"collections": "Abstract",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Geometric 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Geometric1.png",
+		"collections": "Abstract",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Geometric 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Geometric2.png",
+		"collections": "Abstract",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Geometric 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Geometric3.png",
+		"collections": "Abstract",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "Mountains View",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MountainsView.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Mountains View 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MountainsView1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Mountains View 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MountainsView2.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Mountains View 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MountainsView3.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "Alone Deer Mountains",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneDeerMountains.png",
+		"collections": "Landscapes,Deer",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Alone Deer Mountains 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneDeerMountains1.png",
+		"collections": "Landscapes,Deer",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Alone Deer Mountains 2 ",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneDeerMountains2.png",
+		"collections": "Landscapes,Deer",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Alone Deer Mountains 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneDeerMountains3.png",
+		"collections": "Landscapes,Deer",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "Cabin In The Forest",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/CabinInTheForest.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Cabin In The Forest 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/CabinInTheForest1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Cabin In The Forest 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/CabinInTheForest2.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Cabin In The Forest 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/CabinInTheForest3.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "Beauty Desert Night",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyDesertNight.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Desert Night",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/DesertNight.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "Japan Mountain",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanMountain.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Japan Mountain 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanMountain1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Japan Mountain 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanMountain2.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Japan Mountain Night",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanMountainNight.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "Pixel Style 6",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle6.png",
+		"collections": "Pixel",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Pixel Style 7",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle7.png",
+		"collections": "Pixel",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Pixel Style 8",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle8.png",
+		"collections": "Pixel",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Pixel Style 8 Amoled",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle8Amoled.png",
+		"collections": "Pixel",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "Amazing Desert Sunset Gray",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmzingDesertSunsetGray.png",
+		"collections": "Gray",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Beauty Desert Gray",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyDesertGray.png",
+		"collections": "Gray",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Beauty Landscape Gray",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyLandscapeGray.png",
+		"collections": "Gray",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Sunset Sky Gray",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SunsetSkyGray.png",
+		"collections": "Gray",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        
+        },
+	{
+                "name": "Beauty Space",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySpace.png",
+		"collections": "Space",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Beauty Space 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySpace2.png",
+		"collections": "Space",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Beauty Space Amoled",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySpaceAmoled.png",
+		"collections": "Space,Amoled",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Beauty Space Amoled 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautySpaceAmoled1.png",
+		"collections": "Space,Amoled",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "Beauty Tree",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyTree.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Beauty Tree 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyTree1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Beauty Tree 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyTree2.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Beauty Tree Night",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyTreeNight.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+        {
+                "name": "Wave Mountains",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/WaveMountains.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Wave Mountains 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/WaveMountains1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Wave Mountains Amoled",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/WaveMountainsAmoled.png",
+		"collections": "Landscapes,Amoled",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Wave Mountains Amoled 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/WaveMountainsAmoled1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "Alone Fox",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneFox.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Alone Fox 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneFox2.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Alone Fox 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneFox3.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Alone fox Amoled",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneFoxAmoled.png",
+		"collections": "Landscapes,Amoled",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "Pixel Style 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle2.png",
+		"collections": "Pixel",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Pixel Style 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle3.png",
+		"collections": "Pixel",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Pixel Style 4",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle4.png",
+		"collections": "Pixel",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Pixel Style 5",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle5.png",
+		"collections": "Pixel",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Pixel Style Amoled",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyleAmoled.png",
+		"collections": "Pixel,Amoled",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "Skater",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Skater.png",
+		"collections": "Skater",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Skater 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Skater1.png",
+		"collections": "Skater",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Skater 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Skater2.png",
+		"collections": "Skater",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Skater 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Skater3.png",
+		"collections": "Skater",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "Mountains Tree",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MountainsTree.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Mountains Tree 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MountainsTree1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Mountains Tree 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MountainsTree2.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Mountains Tree Amoled",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MountainsTreeAmoled.png",
+		"collections": "Landscapes,Amoled",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "Amoled Forest Deer",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmoledForestDeer.png",
+		"collections": "Landscapes,Amoled,Deer",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Amoled Forest Deer 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmoledForestDeer1.png",
+		"collections": "Landscapes,Amoled,Deer",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Amoled Forest Deer 2 ",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmoledForestDeer2.png",
+		"collections": "Landscapes,Amoled,Deer",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Amoled Forest Deer 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmoledForestDeer3.png",
+		"collections": "Landscapes,Amoled,Deer",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "Japan Tori Fox",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanToriFox.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Japan Tori Fox 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanToriFox1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Japan Tori Fox 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanToriFox2.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Japan Tori Fox 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanToriFox3.png",
+		"collections": "Landscapes,Amoled",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "Fanart 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/DeadPool2.png",
+		"collections": "Hero",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Fanart 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/DeadPool3.png",
+		"collections": "Hero",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Fanart 4",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/DeadPool4.png",
+		"collections": "Hero",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Fanart 5",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/DeadPool5.png",
+		"collections": "Hero",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Fanart 6",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/DeadPool6.png",
+		"collections": "Hero",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Plane Sunset 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PlaneSunset1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Plane Sunset Amoled",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PlaneSunsetAmoled.png",
+		"collections": "Landscapes,Amoled",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "Firewatch Style",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/FirewatchStyle.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Firewatch Style 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/FirewatchStyle1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Gradient Desert",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GradientDesert.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Gradient Desert 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GradientDesert1.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Gradient Desert 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GradientDesert2.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Beauty Gray Forest",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyGrayForest.png",
+		"collections": "Landscapes,Gray",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Beauty Amoled Forest",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyAmoledForest.png",
+		"collections": "Landscapes,Amoled",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Beauty Colors Forest",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyColorsForest.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Jungle 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Jungle1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Beauty Train Bridge 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyTrainBridge1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+        {           
+                "name": "Africa",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Africa.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+	},
+	{
+		"name": "Africa 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Africa2.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Alone House 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneHouse1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Alone House 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneHouse2.png",
+		"collections": "Landscapes",
+   		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Alone In Desert",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneInDesert.png",
+		"collections": "Desert",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"   
+        },
+	{
+		"name": "Alone In Desert 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneInDesert1.png",
+		"collections": "Desert",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Amazing Desert Sunset",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmazingDesertSunset.png",
+		"collections": "Desert",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Amazing Desert Sunset 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmazingDesertSunset1.png",
+		"collections": "Desert",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Beautiful Day Desert",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautifulDayDesert.png",
+		"collections": "Desert",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Beautiful Night Desert",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautifulNightDesert.png",
+		"collections": "Desert",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Beautiful Sunset Deer",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautifulSunsetDeer.png",
+		"collections": "Landscapes,Deer",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Beautiful Sunset Deer 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautifulSunsetDeer1.png",
+		"collections": "Landscapes,Deer",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Beauty Colors Desert",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyColorsDesert.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Beauty Colors Desert 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyColorsDesert1.png",
+		"collections": "Landscapes,Desert",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Beauty Landscape",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyLandscape.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Beauty Landscape 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyLandscape1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Beauty Place",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyPlace.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Beauty Place 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyPlace1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Beauty Train Bridge",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyTrainBridge.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+		
+        },
+	{
+		"name": "Blue Sky",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BlueSky.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Sunset Sky",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SunsetSky.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Day Boat",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/DayBoat.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Deer Night",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/DeerNight.png",
+		"collections": "Landscapes,Deer",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Deer Night 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/DeerNight1.png",
+		"collections": "Landscapes,Deer",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Desert Gray",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/DesertGray.png",
+		"collections": "Landscapes,Desert,Gray",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Forest Sunset",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/ForestSunset.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Forest Sunset Night",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/ForestSunsetNight.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Gradient Deer",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GradientDeer.png",
+		"collections": "Landscapes,Deer",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Gradient Deer 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GradientDeer1.png",
+		"collections": "Landscapes,Deer",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Gray Deer",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GrayDeer.png",
+		"collections": "Landscapes,Deer,Gray",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Gray Mountain",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GrayMountain.png",
+		"collections": "Landscapes,Gray",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Jungle",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/Jungle.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "LightHouse",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LightHouse.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "LightHouse 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LightHouse1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Pixel Style",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle.png",
+		"collections": "Pixel",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Pixel Style 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle1.png",
+		"collections": "Pixel",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Plane Sunset",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PlaneSunset.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Plane Sunset Gray",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PlaneSunsetGray.png",
+		"collections": "Landscapes,Gray",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Play Again",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PlayAgain.png",
+		"collections": "Space",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Play Again 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PlayAgain1.png",
+		"collections": "Space",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Rocket Space",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/RocketSpace.png",
+		"collections": "Space",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Rocket Space 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/RocketSpace1.png",
+		"collections": "Space",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Secret Sword",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SecretSword.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Secret Sword 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SecretSword1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Secret Sword 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SecretSword3.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Secret Sword 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SecretSword2.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Space Planet",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SpacePlanet.png",
+		"collections": "Space",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "SpacePlanetAmoled",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SpacePlanetAmoled.png",
+		"collections": "Space,Amoled",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Stars View",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/StarsView.png",
+		"collections": "Space,Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Stars View 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/StarsView1.png",
+		"collections": "Landscapes,Space",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Strange Planet",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/StrangePlanet.png",
+		"collections": "Space,Desert",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Strange Planet 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/StrangePlanet1.png",
+		"collections": "Space,Desert",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Strange Planet Gray",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/StrangePlanetGray.png",
+		"collections": "Space,Desert,Gray",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Sunset Boat",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SunsetBoat.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Two Colors Mountain",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/TwocolorsMountain.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Two Colors Mountain 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/TwocolorsMountain1.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Window View Amoled",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/WindowViewAmoled.png",
+		"collections": "Landscapes,Amoled",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Window View",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/WindowView.png",
+		"collections": "Landscapes",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Amazing Desert Sunset Grain ",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AmazingDesertSunsetGrain.jpg",
+		"collections": "Grain",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Gradient Desert Grain",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GradientDesertGrain.jpg",
+		"collections": "Grain",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Japan Tori Fox Grain",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/JapanToriFoxGrain.jpg",
+		"collections": "Grain",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Mountains Tree Grain",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MountainsTreeGrain.jpg",
+		"collections": "Grain",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Mountains View Grain",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MountainsViewGrain.jpg",
+		"collections": "Grain",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Pixel Style 1 Grain",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyle1Grain.jpg",
+		"collections": "Grain",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Skater Grain",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/SkaterGrain.jpg",
+		"collections": "Grain",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+                "name": "Beauty Tree 2 Grain",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyTree2Grain.jpg",
+		"collections": "Grain",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Firewatch Style Grain",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/FirewatchStyleGrain.jpg",
+		"collections": "Grain",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Forest Sunset Grain",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/ForestSunsetGrain.jpg",
+		"collections": "Grain",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Gradient Deer Grain",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/GradientDeerGrain.jpg",
+		"collections": "Grain",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Mountains Tree 2 Grain",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/MountainsTree2Grain.jpg",
+		"collections": "Grain",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Rocket Space Grain",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/RocketSpaceGrain.jpg",
+		"collections": "Grain",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Alone Fox Grain",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneFoxAmoledGrain.jpg",
+		"collections": "Grain",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Alone Deer Mountains Grain",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/AloneDeerMountainsGrain.jpg",
+		"collections": "Grain",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{
+		"name": "Little House Grain",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/LittleHouseGrain.jpg",
+		"collections": "Grain",
+		"downloadable": false,
+                "dimensions": "2000 x 4000 px"
+        },
+	{ 
+                "name": "Beauty Colors Desert",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyColorsDesert.jpg",
+		"collections": "Landscapes,Desert,Grain",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Beauty Colors Desert 1",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyColorsDesert1.jpg",
+		"collections": "Landscapes,Desert,Grain",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Beauty Colors Desert 2",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyColorsDesert2.jpg",
+		"collections": "Landscapes,Desert,Grain",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        },
+	{
+                "name": "Beauty Colors Desert 3",
+		"author": "Akash",
+		"url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BeautyColorsDesert3.jpg",
+		"collections": "Landscapes,Desert,Grain",
+		"downloadable": false,
+		"dimensions": "2353 x 5099 px"
+        
+	}
+]
