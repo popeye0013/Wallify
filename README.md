@@ -13,7 +13,7 @@
 ![alt text](https://raw.githubusercontent.com/popeye0013/Wallify/main/Resources/Avatars/WallifyBanner.png)
 
 
-[![Downloads](https://img.shields.io/github/downloads/popeye0013/Wallify/total?color=%231a73e8&label=Downloads&style=for-the-badge)](https://github.com/popeye0013/Wallify/releases)
+[![Downloads](https://img.shields.io/github/downloads/popeye0013/Wallify/total?color=%231a73e8&label=Downloads&style=for-the-badge)](https://github.com/popeye0013/Wallify/releases/latest)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/legalcode">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
